@@ -31,6 +31,8 @@ This task could be solved using the Light Gradient Boost framework classifier an
    * again execute ```app.py```
    * for more refer to the link https://discuss.streamlit.io/t/error-while-running-streamlit-hello/3811
 # Resources Used
+* https://www.streamlit.io/
+* https://docs.streamlit.io/en/stable/
 * https://awesome-streamlit.org/
 * https://lightgbm.readthedocs.io/en/latest/
 
