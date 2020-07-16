@@ -35,6 +35,3 @@ This task could be solved using the Light Gradient Boost framework classifier an
 * https://docs.streamlit.io/en/stable/
 * https://awesome-streamlit.org/
 * https://lightgbm.readthedocs.io/en/latest/
-
-# Drive link for Demo
-* https://drive.google.com/drive/folders/1Ry1YztWL5hY6NlblYAdWrB3dr2tICuYu?usp=sharing
