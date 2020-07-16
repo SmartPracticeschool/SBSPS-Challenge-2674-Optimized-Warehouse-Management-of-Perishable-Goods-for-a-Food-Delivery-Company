@@ -1,0 +1,7 @@
+streamlit==0.49.0
+pandas
+scikit_learn
+matplotlib
+plotly
+lightgbm
+numpy
