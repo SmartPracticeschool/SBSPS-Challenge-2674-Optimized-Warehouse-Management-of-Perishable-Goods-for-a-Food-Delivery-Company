@@ -9,6 +9,7 @@ The replenishment of majority of raw materials is done on weekly basis and since
 
 It has been a challenging task to manage perishable food supply chains because of the perishable product’s short lifetime, the possible spoilage of the product due to its deterioration nature, and the retail demand uncertainty. All of these factors can lead to a significant amount of shortage of food items and a substantial retail loss. The mass spoilage and difficulty in management impel retailers to set a higher retail price, which retains the consumption and results in frequent shortages.
 
+
 This task could be solved using the Light Gradient Boost framework classifier and predict the food demand based on the previous data. 
 # Requirements
 * python 3.7 with ```pip``` or ```conda``` package installer
@@ -22,6 +23,7 @@ This task could be solved using the Light Gradient Boost framework classifier an
    * ```numpy```
    * ```matplotlib```
    
+  
    
 - change  the directory to SBSPS-Challenge-2674-Optimized-Warehouse-Management-of-Perishable-Goods-for-a-Food-Delivery-Company (i.e ```cd```)
    * run the following command ```streamlit run app.py```
